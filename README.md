@@ -1,3 +1,5 @@
+
+[Pitch Deck-AI Blog.pptx](https://github.com/user-attachments/files/17958858/Pitch.Deck-AI.Blog.pptx)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
